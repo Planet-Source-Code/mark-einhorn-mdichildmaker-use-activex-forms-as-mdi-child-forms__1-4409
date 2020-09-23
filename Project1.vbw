@@ -1,0 +1,6 @@
+frmMDIChildContainer = 0, 0, 683, 444, Z, 22, 22, 462, 361, C
+MDIForm1 = 44, 44, 667, 383, , 44, 44, 587, 383, C
+CBMDIChildMaker = 132, 132, 719, 471, 
+MDIChildMaker = 0, 0, 542, 339, 
+MSubclass = 154, 154, 720, 493, 
+ISubclass = 132, 132, 698, 471, 
